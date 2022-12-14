@@ -1,0 +1,109 @@
+#deep{
+    margin-top:1px;
+    
+}
+#demo{
+    border: 1px solid black;
+    height: 1900px;
+ width: 1000px; 
+ padding: 50px; 
+ background-color: rgba(216, 156, 233, 0.34); 
+}
+#fs{
+    font-size: 20px;
+}
+#fs1{
+    font-size: 20px;
+}
+#fs2{
+    font-size: 20px;
+}
+#fs3{
+    font-size: 20px;
+}
+#br1{
+    height: 100px;
+    width: 590px;
+}
+#fs4{
+    font-size: 20px;
+}
+#fs5{
+    font-size: 20px;
+}
+#fs6{
+    font-size: 20px;
+}
+
+#fs7{
+    font-size: 20px;
+}
+#fs8{
+    font-size: 20px;
+}
+#fs9{
+    font-size: 20px;
+}
+#fs10{
+    font-size: 20px;
+}
+#fs11{
+    font-size: 20px;
+}
+#mar{
+    margin-top: 10px;
+}
+#mar1{
+    margin-top: 10px;
+}
+#mar2{
+    margin-top: 10px;
+}
+
+
+#div{
+    color:rgb(36, 2, 44);
+    font-size:40px;
+    text-align:center;
+    text-decoration: underline;
+    font-family:'Times New Roman', Times, serif;
+
+}
+.upload{
+    width: 100px;
+    position: relative;
+    margin: auto;
+}
+.upload img{
+    border-radius: 50%;
+    border: 6px solid #eaeaea;
+}
+.upload.round{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background: #00B4FF;
+    width: 32px;
+    height: 32px;
+    line-height: 33px;
+    text-align: center;
+    border-radius: 50%;
+    overflow: hidden;
+
+}
+.upload.round input[type='file']{
+    position: absolute;
+    transform: scale(2);
+    opacity: 0;
+
+}
+#pop{
+    color:rgb(130, 13, 13);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+#red{
+    color:rgb(130, 13, 13);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
